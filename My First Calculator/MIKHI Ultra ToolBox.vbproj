@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F371A10A-8FA6-4538-B66F-39A45DE86B0B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MIKHI_Ultra_ToolBox.My.MyApplication</StartupObject>
+    <RootNamespace>MIKHI_Ultra_ToolBox</RootNamespace>
+    <AssemblyName>MIKHI Ultra ToolBox</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Kesh\Desktop\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MIKHI Ultra ToolBox.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MIKHI Ultra ToolBox.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>03A3C7803C5FA6E77EDD871F7B65E4859BF3390A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>My First Calculator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Controls">
+      <HintPath>D:\My Files\Home\Visual Basic\AForge.NET Framework-2.2.5\Release\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>D:\My Files\Home\Visual Basic\AForge.NET Framework-2.2.5\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>D:\My Files\Home\Visual Basic\AForge.NET Framework-2.2.5\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="BarcodeLib.BarcodeReader">
+      <HintPath>D:\My Files\Home\Visual Basic\BarcodeLib_NETBarcodeReader_Trial\BarcodeLib_NETBarcodeReader_Trial\BarcodeLib.BarcodeReader.dll</HintPath>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding">
+      <HintPath>D:\My Files\Home\Visual Basic\QrCode.Net 0.4 Pre-Release\QrCode.Net 0.4 Pre-Release\Gma.QrCodeNet.Encoder\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Decimal To Binary Converter.Designer.vb">
+      <DependentUpon>Decimal To Binary Converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Decimal To Binary Converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Decimal To Hexadecimal converter.Designer.vb">
+      <DependentUpon>Decimal To Hexadecimal converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Decimal To Hexadecimal converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Length Converter.Designer.vb">
+      <DependentUpon>Length Converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Length Converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multiplication Table.Designer.vb">
+      <DependentUpon>Multiplication Table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Multiplication Table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Number Systems Main UI.Designer.vb">
+      <DependentUpon>Number Systems Main UI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Number Systems Main UI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QR Code Scanner.Designer.vb">
+      <DependentUpon>QR Code Scanner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QR Code Scanner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scientific Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scientific Calculator.Designer.vb">
+      <DependentUpon>Scientific Calculator.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main UI.Designer.vb">
+      <DependentUpon>Main UI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main UI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QR Code Generator.Designer.vb">
+      <DependentUpon>QR Code Generator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QR Code Generator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Temperature Converter.Designer.vb">
+      <DependentUpon>Temperature Converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unit Converter Main UI.Designer.vb">
+      <DependentUpon>Unit Converter Main UI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Unit Converter Main UI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Weight Converter.Designer.vb">
+      <DependentUpon>Weight Converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Weight Converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Decimal To Binary Converter.resx">
+      <DependentUpon>Decimal To Binary Converter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Decimal To Hexadecimal converter.resx">
+      <DependentUpon>Decimal To Hexadecimal converter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Length Converter.resx">
+      <DependentUpon>Length Converter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multiplication Table.resx">
+      <DependentUpon>Multiplication Table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Number Systems Main UI.resx">
+      <DependentUpon>Number Systems Main UI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR Code Scanner.resx">
+      <DependentUpon>QR Code Scanner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Scientific Calculator.resx">
+      <DependentUpon>Scientific Calculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main UI.resx">
+      <DependentUpon>Main UI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR Code Generator.resx">
+      <DependentUpon>QR Code Generator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Converter.resx">
+      <DependentUpon>Temperature Converter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unit Converter Main UI.resx">
+      <DependentUpon>Unit Converter Main UI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Weight Converter.resx">
+      <DependentUpon>Weight Converter.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse sin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse cos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse tan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse tanh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse cosh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse sinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tanh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cosh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ln.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse X.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inverse X1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X power Y.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X power 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start Scan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop-Normal-Red-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QR Scanner Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QR Scanner Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiplication Table Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiplication Table Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary-computer-code-repeating-vector-background-illustration-continuous-pattern-left-right-up-and-down_135022250.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brushedsteel5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temp converter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight Converter Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight Converter Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight Converter Background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight Converter Background3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_12-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight Converter Background4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Length Converter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UC Main UI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN UI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN UI1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN UI2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN UI 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN UI 51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

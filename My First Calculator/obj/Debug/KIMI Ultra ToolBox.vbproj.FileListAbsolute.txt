@@ -1,0 +1,144 @@
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.config
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmCalculator.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.Resources.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmQRcodeGen.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbprojResolveAssemblyReference.cache
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.config
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbprojResolveAssemblyReference.cache
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmQRcodeGen.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.Resources.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmScientificCalculator.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.config
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbprojResolveAssemblyReference.cache
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmScientificCalculator.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmQRcodeGen.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.Resources.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.config
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\KIMI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Controls.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Video.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Imaging.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Math.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Controls.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Video.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Imaging.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\bin\Debug\AForge.Math.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbprojResolveAssemblyReference.cache
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmQRCodeScanner.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmScientificCalculator.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmQRcodeGen.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.Resources.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmMultiplicationTable.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmLengthConverter.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmUnitConverterMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmTemperatureConverter.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmWeightConverter.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmDecimalToBinaryConverter.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmNumberSystemsMainUI.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox  with Scientific Calc - Copy\My First Calculator\My First Calculator\obj\Debug\KIMI_Ultra_ToolBox.frmDecimalToHexadecimalConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.exe.config
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.pdb
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\MIKHI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Controls.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Video.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Imaging.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Math.dll
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Controls.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Video.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Imaging.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\bin\Debug\AForge.Math.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbprojResolveAssemblyReference.cache
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmDecimalToBinaryConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmDecimalToHexadecimalConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmLengthConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmMultiplicationTable.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmNumberSystemsMainUI.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmQRCodeScanner.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmScientificCalculator.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmMainUI.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmQRcodeGen.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.Resources.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmTemperatureConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmUnitConverterMainUI.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI_Ultra_ToolBox.frmWeightConverter.resources
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\KIMI Ultra ToolBox.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI Ultra ToolBox.exe.manifest
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI Ultra ToolBox.application
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI Ultra ToolBox.exe
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI Ultra ToolBox.xml
+C:\Users\Kesh\Desktop\MIKHI ULTRA TOOLBOX\My First Calculator\My First Calculator\obj\Debug\MIKHI Ultra ToolBox.pdb

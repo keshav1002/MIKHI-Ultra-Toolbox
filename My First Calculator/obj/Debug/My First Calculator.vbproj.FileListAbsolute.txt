@@ -1,0 +1,62 @@
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\bin\Debug\My First Calculator.exe.config
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\bin\Debug\My First Calculator.exe
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\bin\Debug\My First Calculator.pdb
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\bin\Debug\My First Calculator.xml
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My_First_Calculator.Form1.resources
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My_First_Calculator.Resources.resources
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My First Calculator.vbproj.GenerateResource.Cache
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My First Calculator.exe
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My First Calculator.xml
+C:\Users\TEMP.IITSTU0.058\AppData\Local\Temporary Projects\My First Calculator\obj\Debug\My First Calculator.pdb
+Z:\Visual Basic\first calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.config
+Z:\Visual Basic\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe
+Z:\Visual Basic\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.xml
+Z:\Visual Basic\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.pdb
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.config
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.xml
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.pdb
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.pdb
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.xml
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Form1.resources
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Resources.resources
+Z:\Visual Basic Tutorials\first calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.config
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.xml
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.pdb
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.pdb
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.xml
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Resources.resources
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.frmCalculator.resources
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Form2.resources
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.manifest
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\bin\Debug\My First Calculator.application
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe.manifest
+C:\Users\Kesh\Desktop\Me and Imdi's Calculator\My First Calculator\My First Calculator\obj\Debug\My First Calculator.application
+G:\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.config
+G:\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe
+G:\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.xml
+G:\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.config
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.frmCalculator.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Form2.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Form3.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My_First_Calculator.Resources.resources
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.vbproj.GenerateResource.Cache
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.application
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.exe
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\My First Calculator.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.exe.manifest
+C:\Users\Kesh\Desktop\Ultra ToolBox\My First Calculator\My First Calculator\obj\Debug\My First Calculator.application
